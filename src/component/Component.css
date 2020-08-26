@@ -1,0 +1,27 @@
+.first-section {
+  display: flex;
+  flex-direction: row;
+  height: 80%vh;
+  width: 90%vw;
+  overflow: hidden;
+}
+.new-interview {
+  height: 80%vh;
+  width: 20%vw;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+
+  object-fit: cover;
+}
+
+.new-interview-pic {
+  object-fit: cover;
+}
+.interview-directory {
+  height: 80%vh;
+  width: 30%vw;
+  overflow: hidden;
+
+  object-fit: cover;
+}
